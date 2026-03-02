@@ -1,0 +1,26 @@
+SUV : Driving --> Petrol engine started
+SUV : Stopping --> Petrol engine stopped
+
+SUV : Driving --> Diesel engine started
+SUV : Stopping --> Diesel engine stopped
+
+SUV : Driving --> Electric engine started
+SUV : Stopping --> Electric engine stopped
+
+Sedan : Driving --> Petrol engine started
+Sedan : Stopping --> Petrol engine stopped
+
+Sedan : Driving --> Diesel engine started
+Sedan : Stopping --> Diesel engine stopped
+
+Sedan : Driving --> Electric engine started
+Sedan : Stopping --> Electric engine stopped
+
+HatchBack : Driving --> Petrol engine started
+HatchBack : Stopping --> Petrol engine stopped
+
+HatchBack : Driving --> Diesel engine started
+HatchBack : Stopping --> Diesel engine stopped
+
+HatchBack : Driving --> Electric engine started
+HatchBack : Stopping --> Electric engine stopped
